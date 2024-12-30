@@ -138,7 +138,14 @@ This mode is optimized for fast-moving vehicles and continuous traffic flow, typ
 - **`car-counter-city.py`**: Main script for detecting and counting cars in city traffic conditions. It includes specific adjustments for city environments, such as recognizing pedestrians and slower vehicles.
 - **`sort.py`**: A utility script for sorting detected objects and ensuring each car is tracked accurately across frames.
 - **`graphics.png`**: A reference image used for graphical representation in the system.
+
+![graphics](https://github.com/user-attachments/assets/dff963f7-03ed-4847-a88d-5d2879f07d45)
+![graphics](https://github.com/user-attachments/assets/eac7d51c-6d89-403f-9aec-c3575e436510)
+
 - **`mask.png`**: Used for image processing to identify cars and filter other objects.
+
+![mask](https://github.com/user-attachments/assets/cd37eb7c-39cf-4c82-b8bc-ed9324f44e8e)
+![mask](https://github.com/user-attachments/assets/6f12f0b6-d78e-4b01-bd29-83d3305ecc21)
 
 ---
 
